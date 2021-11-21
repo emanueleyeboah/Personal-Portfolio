@@ -1,0 +1,38 @@
+body {}
+
+#welcome-section {}
+
+#projects {}
+
+img {
+    position: absolute;
+    border-radius: 90%;
+    width: 200px;
+    margin-left: 10em;
+    bottom: 20em;
+}
+
+.project-tile {}
+
+#About {
+    position: absolute;
+    bottom: 10em;
+}
+
+#social-media {}
+
+#line-division {
+    position: absolute;
+    top: 0em;
+    left: 44em;
+    border-left: 6px solid green;
+    height: 36em;
+    border-radius: 0.5em;
+    top: 5em;
+}
+
+#Experience {}
+
+#Skills {}
+
+#navbar {}
