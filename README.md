@@ -4,3 +4,6 @@ not yet responsive
 
 You can check the project: 
 https://emanueleyeboah.github.io/Personal-Portfolio/
+
+
+Project in progress 
